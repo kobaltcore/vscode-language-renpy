@@ -1,17 +1,17 @@
 {
     "name": "languague-renpy",
-    "displayName": "Ren'Py Language",
-    "description": "Adds syntax highlighting and snippets to Ren'Py files in Visual Studio Code",
-    "version": "1.0.7",
-    "publisher": "LuqueDaniel",
+    "displayName": "Ren'Py Language (Student Transfer Edition)",
+    "description": "Adds syntax highlighting and snippets to Ren'Py files in Visual Studio Code. Includes custom syntax and snippets for the VN Student Transfer",
+    "version": "2.0.0",
+    "publisher": "cobaltcore",
     "license": "MIT",
-    "homepage": "https://github.com/LuqueDaniel/vscode-language-renpy",
+    "homepage": "https://github.com/kobaltcore/vscode-language-renpy",
     "repository": {
         "type": "git",
-        "url": "https://github.com/LuqueDaniel/vscode-language-renpy"
+        "url": "https://github.com/kobaltcore/vscode-language-renpy"
     },
     "bugs": {
-        "url": "https://github.com/LuqueDaniel/vscode-language-renpy/issues"
+        "url": "https://github.com/kobaltcore/vscode-language-renpy/issues"
     },
     "icon": "icon.png",
     "galleryBanner": {
