@@ -99,6 +99,11 @@
     "body": "possess ${1:from_character} ${2:to_character} ${3:end_expr}",
     "description": ""
   },
+  "Depossess": {
+    "prefix": "deposs",
+    "body": "deposs ${1:from_character} ${2:from_emotion} ${3:from_facing} ${4:to_character} ${5:to_emotion} ${6:to_facing}",
+    "description": ""
+  },
   "Pentagram": {
     "prefix": "pentagram",
     "body": ["show pentagram at center behind ${1:character} as pentagram", "\"${2:narration}$0\"", "hide pentagram"],
