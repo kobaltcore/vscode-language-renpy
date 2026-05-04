@@ -1,4 +1,24 @@
 {
+  "Stage Show": {
+    "prefix": "ss",
+    "body": "show ${1:character} ${2|a_0,a_1,a_2,a_3,b_0,b_1,b_2,b_3|} at ${3|left,centerleft,center,centerright,right|}",
+    "description": "Quick show line for rough staging."
+  },
+  "Stage Show Facing": {
+    "prefix": "ssf",
+    "body": "show ${1:character} ${2|a_0,a_1,a_2,a_3,b_0,b_1,b_2,b_3|} at ${3|left,centerleft,center,centerright,right|}${4|\\, faceright,\\, faceleft|}",
+    "description": "Quick show line for rough staging with facing direction."
+  },
+  "Face Left": {
+    "prefix": ",fl",
+    "body": ", faceleft",
+    "description": "Quick left facing direction."
+  },
+  "Face Right": {
+    "prefix": ",fr",
+    "body": ", faceright",
+    "description": "Quick right facing direction."
+  },
   "Timed Choice": {
     "prefix": "timedchoice",
     "body": "timedchoice ${1:duration} ${2:label}",
