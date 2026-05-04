@@ -61,7 +61,7 @@
   },
   "Morph": {
     "prefix": "morph",
-    "body": ["morph begin ${1|magic,alien|} ${2:from_character} ${3:to_character} ${4:target_outfit} ${5:target_expression}", "morph do ${3:to_character}", "morph end ${3:to_character}", "morph finish ${3:to_character}"],
+    "body": ["morph begin ${1|magic,alien|} ${2:from_character} ${3:to_character} ${4:target_outfit} ${5:target_expression}", "morph do ${3:from_character}", "morph end ${3:from_character}", "morph finish ${3:to_character}"],
     "description": "Morph one person into another."
   },
   "Begin Morph": {
