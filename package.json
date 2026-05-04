@@ -2,7 +2,7 @@
     "name": "languague-renpy",
     "displayName": "Ren'Py Language (Student Transfer Edition)",
     "description": "Adds syntax highlighting and snippets to Ren'Py files in Visual Studio Code. Includes custom syntax and snippets for the VN Student Transfer",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "publisher": "cobaltcore",
     "license": "MIT",
     "homepage": "https://github.com/kobaltcore/vscode-language-renpy",
